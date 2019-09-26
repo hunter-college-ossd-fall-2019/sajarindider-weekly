@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|     |     |     |      |
+|  4   | <https://github.com/hunter-college-ossd-fall-2019/vioelsdm-weekly/pull/2> | Blog Edit    |   I fixed a simple typo.    |
+|  4   | <https://www.openstreetmap.org/changeset/74937261>    | OpenStreetMap Edit     | Added info about a nearby supermarket|
 |     |     |     |      |

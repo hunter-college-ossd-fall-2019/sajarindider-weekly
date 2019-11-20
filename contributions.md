@@ -33,5 +33,10 @@ Replace the first row below with your contribution.
 |  9  | <https://www.openstreetmap.org/changeset/76564192> | OpenStreetMap Edit | Added information about local stationary store|
 |  9  | <https://www.openstreetmap.org/changeset/76564148> | OpenStreetMap Edit | Added information about local deli|
 |  9  | <https://www.openstreetmap.org/changeset/76564118> | OpenStreetMap Edit | Added information about local cemetary|
+| 10 | <https://github.com/hunter-college-ossd-fall-2019/sophiabonsu-weekly/pull/3> | Blog Edit | I fixed a typo in contribution.md | 
+|10 | <https://github.com/hunter-college-ossd-fall-2019/kbarias-weekly/pull/10> | Blog Edit | I fixed a few typos in blog 9 |
+|10 | <https://github.com/opencv/opencv/pull/15898> | OpenCV PR | Added a better installtion method in the docummentation |
+|11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925918690> | Wikipedia Edit|  |Added a hyperlink to a local high school for Ozone Park page|
+|11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925929998> | Wikipedia Edit | Added a citation for when the Pope visited Queens|
 
 

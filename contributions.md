@@ -36,7 +36,10 @@ Replace the first row below with your contribution.
 | 10 | <https://github.com/hunter-college-ossd-fall-2019/sophiabonsu-weekly/pull/3> | Blog Edit | I fixed a typo in contribution.md | 
 |10 | <https://github.com/hunter-college-ossd-fall-2019/kbarias-weekly/pull/10> | Blog Edit | I fixed a few typos in blog 9 |
 |10 | <https://github.com/opencv/opencv/pull/15898> | OpenCV PR | Added a better installtion method in the docummentation |
-|11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925918690> | Wikipedia Edit|  |Added a hyperlink to a local high school for Ozone Park page|
+|11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925918690> | Wikipedia Edit| Added a hyperlink to a local high school for Ozone Park page|
 |11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925929998> | Wikipedia Edit | Added a citation for when the Pope visited Queens|
+|12 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=928210748> | Wikipedia Edit | Added a hyperlink to John Gotti wiki page |
+|12 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=928210847> | Wikipedia Edit | Removed a private school listed |
+
 
 

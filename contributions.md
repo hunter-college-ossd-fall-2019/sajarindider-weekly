@@ -40,6 +40,10 @@ Replace the first row below with your contribution.
 |11 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=925929998> | Wikipedia Edit | Added a citation for when the Pope visited Queens|
 |12 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=928210748> | Wikipedia Edit | Added a hyperlink to John Gotti wiki page |
 |12 | <https://en.wikipedia.org/w/index.php?title=Ozone_Park,_Queens&diff=prev&oldid=928210847> | Wikipedia Edit | Removed a private school listed |
+|12 | <https://github.com/opencv/opencv/pull/16006> | OpenCV PR | Fixes typo in calib3d.hpp file|
+|13 | <https://en.wikipedia.org/w/index.php?title=Glenn_Gould&diff=prev&oldid=929908619> | Wikipedia Edit | Added a hyperlink to Josef Hofmann wiki page|
+|14 | <https://github.com/opencv/opencv/pull/16100> | OpenCV PR | Added a description about STAR Feature Detector |
+|14 | <https://github.com/opencv/opencv/pull/16165> | OpenCV PR | Added a MacOS Install Guide|
 
 
 
